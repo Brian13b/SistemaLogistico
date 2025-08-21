@@ -27,7 +27,7 @@ Cada módulo está desacoplado e integrado mediante un **API Gateway**, ofrecien
 ---
 
 ## 🚀 Cómo empezar
-1. Clonar los repositorios individuales (o usar el repo `SistemaLogistico-infra`).  
+1. Clonar los repositorios individuales (o usar el repo `SistemaLogistico-devops`).  
 2. Configurar los archivos `.env` en cada módulo.  
 3. Levantar los servicios con Docker Compose desde el repo de infraestructura.  
 
