@@ -13,8 +13,7 @@ Diseñado bajo una arquitectura **desacoplada**, garantiza escalabilidad, seguri
 
 El sistema se compone de módulos independientes que se comunican a través de APIs REST y protocolos TCP:
 
-![Arquitectura](<img width="886" height="648" alt="image" src="https://github.com/user-attachments/assets/4a5ce3e0-1586-4bd3-b2b9-8e01b648f0e4" />
-)
+![Arquitectura](imagenes/image.png)
 
 ### 🧩 Módulos del Sistema
 | Módulo | Descripción | Tecnologías | Repositorio |
